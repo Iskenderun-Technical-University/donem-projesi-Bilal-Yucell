@@ -455,3 +455,99 @@ Received Import Request.
   path: Assets/supply_crate.fbx
   artifactKey: Guid(c51275f00f1884217ab0cadb64ee9c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/supply_crate.fbx using Guid(c51275f00f1884217ab0cadb64ee9c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d04102b814cdc2d3bd7969a1047b830') in 0.015020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 541.749631 seconds.
+  path: Assets/Transport Shuttle_fbx.fbx
+  artifactKey: Guid(437dc936f641c4382ac1d14f600c44e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Transport Shuttle_fbx.fbx using Guid(437dc936f641c4382ac1d14f600c44e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85d9ff1ec3bbc77c00591a803156421') in 0.293181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.927232 seconds.
+  path: Assets/Transport Shuttle_fbx.fbx
+  artifactKey: Guid(437dc936f641c4382ac1d14f600c44e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Transport Shuttle_fbx.fbx using Guid(437dc936f641c4382ac1d14f600c44e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4695e8c29b7f9a6fd70d9c1c3f5a14f1') in 0.152911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.971610 seconds.
+  path: Assets/textures 1/Buster_Col_1.jpg
+  artifactKey: Guid(7cda1e7627dc94e94a09cb3441b501c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Buster_Col_1.jpg using Guid(7cda1e7627dc94e94a09cb3441b501c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61d2464c71122322a61d87dfc4b3a42c') in 0.026849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/textures 1/Shuttle_Wire_Nor.jpg
+  artifactKey: Guid(ae9a52b4127544ecc8ab0eedd919e707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Wire_Nor.jpg using Guid(ae9a52b4127544ecc8ab0eedd919e707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149f6bbe21f1e80a4dbd106dd3420606') in 0.008540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001293 seconds.
+  path: Assets/textures 1/Shuttle_Outside_Col.jpg
+  artifactKey: Guid(3560a76181b334ebeba1b7e74c82cfb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Outside_Col.jpg using Guid(3560a76181b334ebeba1b7e74c82cfb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91da26a59bde528d93144e5891c655f6') in 0.009401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/textures 1/Shuttle_Rest_Col.jpg
+  artifactKey: Guid(8ae48180edd704787825324699b93db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Rest_Col.jpg using Guid(8ae48180edd704787825324699b93db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256dcdf01db3812d69524c3d42254ed2') in 0.006663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/textures 1/Shuttle_Legs_Col.jpg
+  artifactKey: Guid(da09782cba73d4953b0c4fce1208d51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Legs_Col.jpg using Guid(da09782cba73d4953b0c4fce1208d51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f6de17e62159ddd1eab6e3ada27f06') in 0.009825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/textures 1/Shuttle_Outside_Nor_2.jpg
+  artifactKey: Guid(20d6b62a31ace4fb0962c7ab2da013fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Outside_Nor_2.jpg using Guid(20d6b62a31ace4fb0962c7ab2da013fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8363bdcee3484904d533e3d1793afcd0') in 0.008759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/textures 1/Shuttle_Hover_Nor_2.jpg
+  artifactKey: Guid(e9fd17531f633468fabc7220ab02440e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Hover_Nor_2.jpg using Guid(e9fd17531f633468fabc7220ab02440e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f165831d57d68a1914ecb59eb7914e42') in 0.007192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/textures 1/Shuttle_Site_Nor.jpg
+  artifactKey: Guid(4771bb2fd729b42fa94de4f84b9cca9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Site_Nor.jpg using Guid(4771bb2fd729b42fa94de4f84b9cca9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17afe87cf174eb77ba945cfd5f25f6b') in 0.008352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/textures 1/Shuttle_Rest_Nor.jpg
+  artifactKey: Guid(6ff554488a8b044a7a218e553175d3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Rest_Nor.jpg using Guid(6ff554488a8b044a7a218e553175d3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b5f47d07e4ac0cfa5f61eb134141a3b') in 0.006990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/textures 1/Shuttle_Inside_Nor.jpg
+  artifactKey: Guid(d262ac897971241b79ed636f32fcf0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Inside_Nor.jpg using Guid(d262ac897971241b79ed636f32fcf0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff367bb247b587bf83882694a3c46c0') in 0.010249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/textures 1/Shuttle_Legs_Nor.jpg
+  artifactKey: Guid(3f8842c8673394a31910a897206f8078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Legs_Nor.jpg using Guid(3f8842c8673394a31910a897206f8078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca7801b5f561c6635c05f3582d1f0c0') in 0.006056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/textures 1/Shuttle_Hover_Col.jpg
+  artifactKey: Guid(0a75f54f267aa4684854e9f355848e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Hover_Col.jpg using Guid(0a75f54f267aa4684854e9f355848e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fbf0fd9adbf8a487d83b252099b8137') in 0.007076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/textures 1/Shuttle_Site_Col.jpg
+  artifactKey: Guid(565f139c94ea44ce499464b8f95d57e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Site_Col.jpg using Guid(565f139c94ea44ce499464b8f95d57e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba750cdb6b82eaa43aa47ec840ec86d2') in 0.005407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 290.179461 seconds.
+  path: Assets/uploads-files-3704903-t-90a(Elements_of_war).FBX
+  artifactKey: Guid(52a838196b1ce47b48631bf454c461f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads-files-3704903-t-90a(Elements_of_war).FBX using Guid(52a838196b1ce47b48631bf454c461f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b4cd0779233fc552c98897e6991fabb') in 0.191851 seconds 

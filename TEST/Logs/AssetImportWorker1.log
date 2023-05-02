@@ -353,3 +353,27 @@ Received Import Request.
   path: Assets/textures 1/supply_crate_Normal.png
   artifactKey: Guid(70ce4e4d2ca1d45d08f0a2837f5277b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/textures 1/supply_crate_Normal.png using Guid(70ce4e4d2ca1d45d08f0a2837f5277b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c523f079cd9c0af9ad61c4107b7fcd24') in 0.454226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 675.934475 seconds.
+  path: Assets/textures 1/Buster_Nor_2.jpg
+  artifactKey: Guid(e6b45f08e7c6e4e2382a61270e44b7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Buster_Nor_2.jpg using Guid(e6b45f08e7c6e4e2382a61270e44b7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ead744840be2809e332e05aae86ac5') in 0.084016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/textures 1/DH_Ref_3.jpg
+  artifactKey: Guid(72442645c5c994012b33cd4a6e89406a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/DH_Ref_3.jpg using Guid(72442645c5c994012b33cd4a6e89406a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e1f9d62dde4e7ded9836ab54552bb9') in 0.011177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/textures 1/Shuttle_Wire_Col.jpg
+  artifactKey: Guid(0dc18b7db574f41edbbae0d0893ba171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Wire_Col.jpg using Guid(0dc18b7db574f41edbbae0d0893ba171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f75d074293b2a6469964f5b807463e') in 0.008190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/textures 1/Shuttle_Inside_Col.jpg
+  artifactKey: Guid(91485e8fc39354f41b9cac0a3f74c738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Shuttle_Inside_Col.jpg using Guid(91485e8fc39354f41b9cac0a3f74c738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd943269ecadecc3a2360bdfebe4cc1') in 0.007886 seconds 
