@@ -793,3 +793,45 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1525.864041 seconds.
+  path: Assets/tank_trexhwm.fbx
+  artifactKey: Guid(d50f86f601f5b48a09454b1311d65579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tank_trexhwm.fbx using Guid(d50f86f601f5b48a09454b1311d65579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaec35ce23d238c466cea578c200a149') in 0.322905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.767510 seconds.
+  path: Assets/tank_trexhwm.fbx
+  artifactKey: Guid(d50f86f601f5b48a09454b1311d65579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tank_trexhwm.fbx using Guid(d50f86f601f5b48a09454b1311d65579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4da5b0a1fcc6e80b76c9b681e441202') in 0.033820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.577504 seconds.
+  path: Assets/textures 1/colorid2.png
+  artifactKey: Guid(ba1209e37c8db44c8bb51e5db321c38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/colorid2.png using Guid(ba1209e37c8db44c8bb51e5db321c38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b06f7db365ce7b4ce83f0fe0d804db') in 0.021629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/textures 1/DefaultMaterial_Normal_DirectX.png
+  artifactKey: Guid(198fb86ea0eb14550bdc62c29bd0dfcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/DefaultMaterial_Normal_DirectX.png using Guid(198fb86ea0eb14550bdc62c29bd0dfcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f53015b2b2e59f701828caec1fd8f9') in 0.008973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/textures 1/DefaultMaterial_Glossiness.png
+  artifactKey: Guid(a3b20ff5bf68a4d99b1ab9117bfaf3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/DefaultMaterial_Glossiness.png using Guid(a3b20ff5bf68a4d99b1ab9117bfaf3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c0e9539d78703a9779fd68779e186af') in 0.015997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/textures 1/DefaultMaterial_Specular.png
+  artifactKey: Guid(38a18722812664b0f9aa3c801d313d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/DefaultMaterial_Specular.png using Guid(38a18722812664b0f9aa3c801d313d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31624ce13f18c431b50e3f5ed597eade') in 0.008344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/textures 1/DefaultMaterial_Mixed_AO.png
+  artifactKey: Guid(d2fa25db5060242c0a1596e78cecb594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/DefaultMaterial_Mixed_AO.png using Guid(d2fa25db5060242c0a1596e78cecb594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32215a82a4f746f77abe867ed89c537c') in 0.008964 seconds 

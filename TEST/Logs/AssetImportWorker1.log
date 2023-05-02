@@ -457,3 +457,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1548.249257 seconds.
+  path: Assets/textures 1/DefaultMaterial_Diffuse.png
+  artifactKey: Guid(bb898274239a24cb097f3142e62e5cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/DefaultMaterial_Diffuse.png using Guid(bb898274239a24cb097f3142e62e5cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6d02ab73a80d29a15e59f18ca954f8') in 0.117759 seconds 
