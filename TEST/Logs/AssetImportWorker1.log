@@ -347,3 +347,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 30326.960328 seconds.
+  path: Assets/textures 1/supply_crate_Normal.png
+  artifactKey: Guid(70ce4e4d2ca1d45d08f0a2837f5277b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/supply_crate_Normal.png using Guid(70ce4e4d2ca1d45d08f0a2837f5277b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c523f079cd9c0af9ad61c4107b7fcd24') in 0.454226 seconds 

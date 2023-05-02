@@ -407,3 +407,51 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 30316.987760 seconds.
+  path: Assets/supply_crate.fbx
+  artifactKey: Guid(c51275f00f1884217ab0cadb64ee9c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/supply_crate.fbx using Guid(c51275f00f1884217ab0cadb64ee9c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '987cd561aed97fc469afb1fb5a4b8df4') in 0.520988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.238689 seconds.
+  path: Assets/textures 1
+  artifactKey: Guid(1cf8e25ed6554414eab9f4a9be2b0e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1 using Guid(1cf8e25ed6554414eab9f4a9be2b0e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ad4646aecb7cc4806757aa3a883fa68') in 0.001713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019437 seconds.
+  path: Assets/textures 1/supply_crate_Diffuse.png
+  artifactKey: Guid(eb88cec78034e45f3a37c13723ef5f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/supply_crate_Diffuse.png using Guid(eb88cec78034e45f3a37c13723ef5f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea86a59d4d416b6715be8d7d050d0e82') in 0.514553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 67.087007 seconds.
+  path: Assets/supply_crate_Normal.png
+  artifactKey: Guid(70ce4e4d2ca1d45d08f0a2837f5277b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/supply_crate_Normal.png using Guid(70ce4e4d2ca1d45d08f0a2837f5277b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799c600e889ceb94fd837006c267ed34') in 0.026442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.891611 seconds.
+  path: Assets/supply_crate.fbx
+  artifactKey: Guid(c51275f00f1884217ab0cadb64ee9c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/supply_crate.fbx using Guid(c51275f00f1884217ab0cadb64ee9c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338eeb8e04ed0abcd94b085b2b99aa54') in 0.076692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.227093 seconds.
+  path: Assets/textures 1/Materials
+  artifactKey: Guid(8227e3f0effdd49c6b1ceafdd262c868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Materials using Guid(8227e3f0effdd49c6b1ceafdd262c868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cb60676a728030e7dd348014b3f6a4a') in 0.001813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025570 seconds.
+  path: Assets/textures 1/Materials/supply_crate_Diffuse.mat
+  artifactKey: Guid(1bf6b1c91c8944d2eaf97175583890c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures 1/Materials/supply_crate_Diffuse.mat using Guid(1bf6b1c91c8944d2eaf97175583890c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07b31ed5a4fa40f020e3daff1866b773') in 0.206369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.166077 seconds.
+  path: Assets/supply_crate.fbx
+  artifactKey: Guid(c51275f00f1884217ab0cadb64ee9c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/supply_crate.fbx using Guid(c51275f00f1884217ab0cadb64ee9c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d04102b814cdc2d3bd7969a1047b830') in 0.015020 seconds 
