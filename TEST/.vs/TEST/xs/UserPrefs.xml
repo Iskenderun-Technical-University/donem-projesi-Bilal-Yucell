@@ -1,10 +1,8 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{31D12E91-BD0A-354B-C509-9B314A7CA6A8}|">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,4 +12,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Unity.CollabProxy.Editor PreferredExecutionTarget="be955032-35b6-45eb-bc76-0ac6cd5c2fcc" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
