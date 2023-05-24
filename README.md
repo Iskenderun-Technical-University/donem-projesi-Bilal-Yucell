@@ -8,3 +8,5 @@
 30 Nisan'da Assetler eklendi: Ana karakter, mermiler, düşman; animasyonlar eklendi: ana karakterin ve düşmanın koşması, ana karakterin ölmesi ve zıplaması. Modellerin eklenmesiyle Material'lar ve Texture'lar da eklenmiş oldu.
 
 2 Mayıs'ta GitHub Desktop büyük boyutlarda push'a izin vermediğinden ve Mac'te Git LFS'i kullanamadığımdan GitHub Desktop aracılığıyla daha düşük boyutlarda (bazıları low poly olacak şekilde) tekrardan assetler eklendi, 30 Nisan'da eklenenlerin bazıları kaldırıldı (mermiler hariç).
+
+24 Mayıs'ta  GitHub Desktop sıkıntısından dolayı karakter ve animasyonlar tekrar eklendi.
