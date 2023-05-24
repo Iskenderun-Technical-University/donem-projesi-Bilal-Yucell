@@ -56,8 +56,8 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/MonoBundle/Addins/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/PlayerController.cs" />
     <Compile Include="Assets/Scripts/CamFollowPlayer.cs" />
+    <Compile Include="Assets/Scripts/PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -687,6 +687,10 @@
       <Project>{A1185CF4-736F-F185-5DCD-CCD70E2B2894}</Project>
       <Name>Unity.VisualScripting.Flow.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Toolchain.Macos-arm64-Linux-x86_64.csproj">
+      <Project>{CE723511-1094-7EB4-CFF1-A5DC6EE78262}</Project>
+      <Name>Unity.Toolchain.Macos-arm64-Linux-x86_64</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.VSCode.Editor.csproj">
       <Project>{FEE5FCB2-347B-813E-AF7F-2AAD0213064F}</Project>
       <Name>Unity.VSCode.Editor</Name>
@@ -739,6 +743,10 @@
       <Project>{AFAB11E0-4B4D-88AA-6D5E-AC7365032368}</Project>
       <Name>Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Sysroot.Linux_x86_64.csproj">
+      <Project>{724870DE-BFEE-8E2B-B4B7-ABF8F07B2CCB}</Project>
+      <Name>Unity.Sysroot.Linux_x86_64</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
       <Project>{8BA22705-A783-1FA2-63E2-9D88D60874F3}</Project>
       <Name>Unity.VisualScripting.Flow</Name>
@@ -770,6 +778,10 @@
     <ProjectReference Include="Unity.VisualScripting.Core.csproj">
       <Project>{588E7109-CF6C-C55A-9999-B85B27EF0C34}</Project>
       <Name>Unity.VisualScripting.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.SysrootPackage.Editor.csproj">
+      <Project>{D315DB17-E7B7-BA84-BC0D-34CC6485C2BF}</Project>
+      <Name>Unity.SysrootPackage.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.EditorCoroutines.Editor.csproj">
       <Project>{6373743F-31C9-1B59-E9DD-E1C8113AB731}</Project>
