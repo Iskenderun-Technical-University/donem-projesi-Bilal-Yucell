@@ -1,23 +1,28 @@
 ﻿<Properties StartupConfiguration="{69C9CF13-724A-0D8F-8AB6-CC5BA6432B40}|">
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f08e8c66-93fd-465e-a883-6b44e0523c30" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Unity.CollabProxy.Editor PreferredExecutionTarget="be955032-35b6-45eb-bc76-0ac6cd5c2fcc" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a875eb2b-3dde-4aea-a66d-1475e22236c0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CollectBullet.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="20" Column="22" />
-      <File FileName="Assets/Scripts/CamFollowPlayer.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="37" Column="29" />
+      <File FileName="Assets/Scripts/CamFollowPlayer.cs" />
+      <File FileName="Assets/Scripts/CollectBullet.cs" Line="11" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TEST" expanded="True" selected="True" />
+          <Node name="TEST" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
