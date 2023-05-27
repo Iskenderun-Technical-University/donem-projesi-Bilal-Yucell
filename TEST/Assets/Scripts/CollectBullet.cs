@@ -2,11 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class CollectBullet : MonoBehaviour
 {
     public int score;
     public TextMeshProUGUI bulletText;
+    public PlayerController playerController;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -15,6 +17,11 @@ public class CollectBullet : MonoBehaviour
             AddBullet();
             Destroy(other.gameObject);
         }
+        else if (other.CompareTag("End"))
+        {
+            Debug.Log("Congrats!");
+            playerController.characterSpeed = 0;
+        }
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -22,6 +29,7 @@ public class CollectBullet : MonoBehaviour
         if (collision.gameObject.CompareTag("Collision"))
         {
             Debug.Log("Touched Obstacle!");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 
