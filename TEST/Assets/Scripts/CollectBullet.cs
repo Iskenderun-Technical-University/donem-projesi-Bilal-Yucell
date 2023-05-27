@@ -17,6 +17,14 @@ public class CollectBullet : MonoBehaviour
         }
     }
 
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Collision"))
+        {
+            Debug.Log("Touched Obstacle!");
+        }
+    }
+
     public void AddBullet()
     {
         score++;
