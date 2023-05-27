@@ -9,6 +9,15 @@ public class CollectBullet : MonoBehaviour
     public int score;
     public TextMeshProUGUI bulletText;
     public PlayerController playerController;
+    public int maxScore;
+    public Animator playerAnim;
+    public GameObject player;
+    public GameObject endPanel;
+
+    private void Start()
+    {
+        playerAnim = player.GetComponentInChildren<Animator>();
+    }
 
     private void OnTriggerEnter(Collider other)
     {
@@ -19,9 +28,26 @@ public class CollectBullet : MonoBehaviour
         }
         else if (other.CompareTag("End"))
         {
-            Debug.Log("Congrats!");
             playerController.characterSpeed = 0;
+            transform.Rotate(transform.rotation.x, 180, transform.rotation.z, Space.Self);
+            endPanel.SetActive(true);
+
+            if (score >= maxScore)
+            {
+                // Debug.Log("You Win!");
+                playerAnim.SetBool("win", true);
+            }
+            else
+            {
+                // Debug.Log("You Lose!");
+                playerAnim.SetBool("lose", true);
+            }
         }
+    }
+
+    public void RestartGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     private void OnCollisionEnter(Collision collision)
