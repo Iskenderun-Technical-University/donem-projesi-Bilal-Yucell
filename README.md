@@ -12,4 +12,6 @@ EN BAŞTA OYUNU TEST ETMEK İÇİN KLASÖR ADINI "TEST" YAPMIŞTIM, REPODA HERHA
 
 2 Mayıs'ta GitHub Desktop büyük boyutlarda push'a izin vermediğinden ve Mac'te Git LFS'i kullanamadığımdan GitHub Desktop aracılığıyla daha düşük boyutlarda (bazıları low poly olacak şekilde) tekrardan assetler eklendi, 30 Nisan'da eklenenlerin bazıları kaldırıldı (mermiler hariç).
 
-24 Mayıs'ta  GitHub Desktop sıkıntısından dolayı karakter ve animasyonlar tekrar eklendi.
+24 Mayıs'ta GitHub Desktop sıkıntısından dolayı karakter ve animasyonlar tekrar eklendi.
+
+29 Mayıs'ta oyun tamamen bitti.
