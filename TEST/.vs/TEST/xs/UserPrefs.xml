@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{69C9CF13-724A-0D8F-8AB6-CC5BA6432B40}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5fddfeba-f8a5-44ac-a547-2bfb4505abef" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CollectBullet.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="7" Column="25" />
+      <File FileName="Assets/Scripts/CamFollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CollectBullet.cs" Line="50" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TEST" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Unity.CollabProxy.Editor PreferredExecutionTarget="be955032-35b6-45eb-bc76-0ac6cd5c2fcc" />
+</Properties>
